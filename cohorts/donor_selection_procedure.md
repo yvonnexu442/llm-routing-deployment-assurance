@@ -1,0 +1,1 @@
+BANKING77 donor rows are frozen in BANKING77_donor_selection_manifest.csv. The source plans and stage code select a changed-route donor by the recorded deterministic mapping; raw utterance text is excluded. Verify against the private source plans before public release.

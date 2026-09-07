@@ -1,0 +1,6 @@
+{
+  "canonical_schema_artifact": "metadata/output_schema.json",
+  "source": "src/eclt/qualification/planning.py::_decision_schema",
+  "sha256": "6bc3d5446997396f97fec3ca7caad5eda0fca2a0fdc043e15f1b901451748aae",
+  "applicability": "dataset label-set instantiated per package"
+}

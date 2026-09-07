@@ -1,0 +1,9 @@
+{
+  "provider": "google",
+  "model": "gemini-3.5-flash",
+  "temperature": 0,
+  "schema_source": "scripts/run_stage2b.py::VERIFY_SCHEMA",
+  "retry_limit": 2,
+  "fail_closed": true,
+  "status": "deterministically reconstructed from source"
+}

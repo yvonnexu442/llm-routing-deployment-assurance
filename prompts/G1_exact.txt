@@ -1,0 +1,5 @@
+Use the route definitions below as the complete decision criteria. Distinguish neighboring routes by the requested action, object, and event status.
+Definitions:
+{DEFINITIONS}
+Return only the structured JSON required by the unchanged schema: label (one listed label or null), confidence (0 to 1 or null), and review (boolean). If no route fits, return review.
+Utterance: {UTTERANCE}

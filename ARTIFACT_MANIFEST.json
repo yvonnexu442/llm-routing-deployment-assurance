@@ -1,0 +1,226 @@
+[
+  {
+    "relative_path": ".gitignore",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "c8501f6edd2cd6d33e8fb3919ad7dc69f8ba4892999f4647462b2198e336de04",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "CITATION.cff",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "bbe46d281f7f5ece8aced4e597ab8dbe611e20920e43e4560e9c55b2b7c40946",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "LICENSE_SELECTION_REQUIRED.md",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "2e917d4c0a019254e5ef5c668060fced7eff8dd152387d188dee441b7a1d75ab",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "README.md",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "c42da9511b88d37ae50f5562f7deb214f4b64d42dc6c1164e647b21a1961b49c",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "cohorts/BANKING77_cohort_manifest.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "6a27e86d8932a801b1c16d2377ced48e6fd8b51b35caa7eadd83360969de0db0",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "cohorts/BANKING77_donor_selection_manifest.csv",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "2e08c79980c184caea216eaf2c353bfd9e10fe5312567f6f25797a109c682b5c",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "cohorts/CLINC150_cohort_manifest.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "84a8787e9353ee39e440d4b5bcc503d8e6b1fd604ef8d46501572fa0322292fb",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "cohorts/CLINC150_donor_selection_manifest.csv",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "45286de91609637f7a8e3649d1b36efa0bf2c4b13e3e667abf66536123ea698f",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "cohorts/donor_selection_procedure.md",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "1a8f9c088c2580b95d19e8e2cb4736b54073f38aa67350237aac1e8f69e97e2a",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "human_validation/equivalent_annotations.csv",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "fdac432356131beb5756cbc4885a3382d1c9b21b6a43ef438f20db177b910573",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "human_validation/genuine_change_annotations.csv",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "b159ea22c1bc752fb37bb784ce85944b8459626f18e419cfd52e95fb39f5228e",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/VERIFIER_RECONSTRUCTION.md",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "b30b34984b2f28dd2765585f16954887377b092a37c5192ae6705bb62b1f61c7",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/execution_identity.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "a759e85204294fd907c34556b74a86d1c910a9c0df5e0c6e8b6c6af315501d30",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/route_set_BANKING77.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "9d933a5ace07c7bcc24568dbe73db752cf0dc1bb692395475b1c7f72a76d4e03",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/route_set_CLINC150.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "f0b92fb4fd9eeee59872463a59952558bb573986d887622493510acce80161c0",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/schema_BANKING77_resolved.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "1705ba1bb7e550802fb4fca8f78c3ebfa1ff1cbd319ab53a3e9daaa2fd00624a",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/schema_CLINC150_resolved.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "5f4824abec0f450b9eacc0aa11fecd88e0f09d85eb74da92766a82ccea4c1e07",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/schema_identity.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "0cd3a771b338f70a383fca0b6f12c7dae813ddafddd1f765d823e447672d5f5c",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/verifier_identity.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "47b37154a8288f21e21dedaa8329be99df30dbfc3955bc535df8ef023a8e87c6",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "metadata/verifier_prompt_template.txt",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "08c49b0a979fa922ecb9af5346dfbf71b61931dbb5f4b305011f0e8598ab9df6",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "package_states/package_state_manifest.csv",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "8582febaec95ec25005b4f21b629bb1f83b776e8a5c646d209930093ad70f222",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "package_states/package_state_manifest.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "056c2b40cccf73420d13fd44155769fe315ab368bbd24472fa613d97785e7f16",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "policy/policy_stability.csv",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "ed49a011ad03276ae91d0805bb32b601674fc195d3c7321bb0dc09b5d6b70f8c",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "prompts/G0_template.txt",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "300d575dfb9a2d0fd4ba9a22b3b8b6eb4026ffb1f218b1a79ed850e5d0a470dc",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "prompts/G1_exact.txt",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "6966c9ee153e7132a71ef1241db9e81bb66b4c9c77f828278b8bf50e23466ecc",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "prompts/G2_exact.txt",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "3f5f9fa1bd5c759e577b46caa951e3792ec50a61cff4aee2b376831b960c9187",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "prompts/RECONSTRUCTION.md",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "7cfd860247a13d6494032e8c5934b4c7c3ce416879dd78a94a5439cbcfb85c27",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "prompts/prompt_manifest.json",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "596111328aea6c40385ea1c3f2acba77ba1a6162913a1b879d585ec1626bac94",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "renderers/planning.py",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "892c27913355e1db0925a2b4cad1d2659d627ef9be359bb90c5bc7692a73f6fe",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "renderers/run_minimal_pilot.py",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "0027aebe290e3d072fd2a6467e7852b9e6b9229f1877931f5b8fdc5181902619",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "renderers/run_stage2b.py",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "764438a983c00ab82de3fcbad277078eedd2f3914cf17233f8e1c0ca4cbea3fd",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  },
+  {
+    "relative_path": "verify_artifact.py",
+    "artifact_type": "sanitized reproducibility artifact",
+    "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
+    "sha256": "bbcc35d4cad0fe3adb4193f47f6b43e88c4b98b88db3ac88d0ef873ddd1b0e5a",
+    "source_of_truth": "private source-of-truth component; logical provenance only"
+  }
+]

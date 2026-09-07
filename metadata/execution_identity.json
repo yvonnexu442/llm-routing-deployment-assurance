@@ -1,0 +1,16 @@
+{
+  "routing_models": {
+    "openai": "gpt-4.1-mini-2025-04-14",
+    "anthropic": "claude-haiku-4-5-20251001"
+  },
+  "rewrite_model": "gpt-4.1-mini-2025-04-14",
+  "verifier_model": "gemini-3.5-flash",
+  "temperature": 0,
+  "structured_output": true,
+  "max_json_retries": 2,
+  "fail_closed": true,
+  "source_paths": [
+    "scripts/run_stage2b.py",
+    "src/eclt/providers/http_adapters.py"
+  ]
+}

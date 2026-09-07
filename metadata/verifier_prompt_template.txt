@@ -1,0 +1,6 @@
+Independently verify whether a rewrite preserves a human-defined intent label.
+Source: {SOURCE}
+Variant: {VARIANT}
+Expected label: {LABEL}
+Alternative labels: {LABELS}
+Accept only if both texts entail the same operational request and no intent-bearing information changed.

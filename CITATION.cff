@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+title: "Policy-Bounded, Provenance-Aware Deployment Assurance for LLM Request Routing"
+type: article
+authors:
+  - family-names: Xu
+    given-names: Yihua
+  - family-names: He
+    given-names: Jiani
+  - family-names: Talati
+    given-names: Ishita Chirag
+  - family-names: Qian
+    given-names: Yitian
+  - family-names: Wang
+    given-names: Youting
+  - family-names: Xu
+    given-names: Zhenyu
+  - family-names: Shang
+    given-names: Dingyan
+abstract: "Reproducibility artifact for the ICOAI 2026 study."
+repository-code: "https://github.com/yvonnexu442/llm-routing-deployment-assurance"

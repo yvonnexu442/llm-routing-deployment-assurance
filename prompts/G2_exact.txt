@@ -1,0 +1,5 @@
+Return one structured routing decision under the unchanged schema and no additional prose. A valid label must be one of the listed routes; otherwise set label to null and review to true.
+Request: {UTTERANCE}
+Route definitions:
+{DEFINITIONS}
+Choose by matching the requested action, object, and event status, using the definitions to distinguish neighboring routes. Return label, confidence (0 to 1 or null), and review.

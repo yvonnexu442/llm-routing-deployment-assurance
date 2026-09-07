@@ -1,0 +1,14 @@
+{
+  "G0": "DYNAMIC_NOT_INDEPENDENTLY_FROZEN",
+  "G1": {
+    "artifact": "prompts/G1_exact.txt",
+    "sha256": "6966c9ee153e7132a71ef1241db9e81bb66b4c9c77f828278b8bf50e23466ecc",
+    "template_or_resolved": "exact frozen artifact"
+  },
+  "G2": {
+    "artifact": "prompts/G2_exact.txt",
+    "sha256": "3f5f9fa1bd5c759e577b46caa951e3792ec50a61cff4aee2b376831b960c9187",
+    "template_or_resolved": "exact frozen artifact"
+  },
+  "note": "G0 is dynamically assembled in src/eclt/qualification/planning.py; no standalone exact resolved artifact was present."
+}

@@ -1,0 +1,4 @@
+Route the utterance to exactly one candidate label, or review if no label fits.
+Labels: {LABELS}
+Utterance: {UTTERANCE}
+Return JSON only.

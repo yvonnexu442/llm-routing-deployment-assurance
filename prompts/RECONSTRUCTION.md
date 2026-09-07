@@ -1,0 +1,3 @@
+# Deterministic routing-payload reconstruction
+
+Package identity is defined at three levels: (A) package-level G0/G1/G2 template and execution condition; (B) dataset-level ordered route-set and resolved schema; and (C) instance-level source/variant content. The final provider payload is rendered by the frozen functions in `renderers/run_minimal_pilot.py` and `renderers/planning.py`: the renderer injects the ordered label definitions, source text, and review rule into the frozen template and pairs the result with the dataset-resolved schema. These functions are deterministic; instance-specific payloads are therefore reconstructible and are not separately archived.

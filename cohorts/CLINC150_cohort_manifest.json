@@ -1,0 +1,21 @@
+{
+  "status": "STAGE2C_150_COHORT_FROZEN_NOT_EXECUTED",
+  "dataset": "CLINC150",
+  "selection_seed": "stage2c-clinc150-stretch-20260731",
+  "source_clusters": 150,
+  "in_scope_sources": 120,
+  "oos_sources": 30,
+  "covered_in_scope_intents": 120,
+  "equivalent_dimensions": {
+    "POLITENESS_DIRECTNESS": 75,
+    "VERBOSITY_COMPRESSION": 75
+  },
+  "control_transitions": {
+    "IN_SCOPE_TO_OOS": 30,
+    "OOS_TO_IN_SCOPE": 30,
+    "IN_SCOPE_TO_IN_SCOPE": 90
+  },
+  "maximum_donor_reuse": 3,
+  "provider_calls": 0,
+  "stage2d_authorized": false
+}
