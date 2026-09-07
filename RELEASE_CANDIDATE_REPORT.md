@@ -22,4 +22,4 @@ PASS — no manuscript, paper PDF/DOCX, reviewer, acceptance, ACM submission, CC
 
 ## Status
 
-READY FOR PRIVATE GITHUB PUSH. Public release still requires author approval of a license, stable DOI/public URL, and a final privacy review.
+READY FOR PRIVATE GITHUB PUSH. The original artifact is MIT-licensed; public release still requires final privacy review and author approval to change repository visibility.

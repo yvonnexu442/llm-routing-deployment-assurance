@@ -20,4 +20,4 @@ See `CITATION.cff`. ACM publication metadata and DOI are forthcoming.
 
 ## License
 
-`LICENSE_SELECTION_REQUIRED.md` records that no license was assigned without author approval. Third-party datasets, models, and resources remain governed by their original terms.
+Original artifact code and documentation are released under the MIT License. Third-party datasets, models, and resources remain governed by their original terms.

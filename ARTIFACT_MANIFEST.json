@@ -14,17 +14,17 @@
     "source_of_truth": "private source-of-truth component; logical provenance only"
   },
   {
-    "relative_path": "LICENSE_SELECTION_REQUIRED.md",
+    "relative_path": "LICENSE",
     "artifact_type": "sanitized reproducibility artifact",
     "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
-    "sha256": "2e917d4c0a019254e5ef5c668060fced7eff8dd152387d188dee441b7a1d75ab",
+    "sha256": "b6bc8f9f9f027c9e6e3846476891daf7df362c9cad3178d782171b0737594a3e",
     "source_of_truth": "private source-of-truth component; logical provenance only"
   },
   {
     "relative_path": "README.md",
     "artifact_type": "sanitized reproducibility artifact",
     "description": "Frozen component for cohort, identity, policy, validation, or deterministic reconstruction",
-    "sha256": "c42da9511b88d37ae50f5562f7deb214f4b64d42dc6c1164e647b21a1961b49c",
+    "sha256": "031ccdf7dcbc2005b35ca7011d89dcc02f5d32f90bc01d4bc97ba737f40ed80f",
     "source_of_truth": "private source-of-truth component; logical provenance only"
   },
   {
